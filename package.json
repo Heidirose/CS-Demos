@@ -1,0 +1,26 @@
+{
+  "name": "CS-Demos",
+  "version": "1.0.0",
+  "description": "Playing around with fun stuff :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heidirose/CS-Demos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heidirose/CS-Demos/issues"
+  },
+  "homepage": "https://github.com/Heidirose/CS-Demos#readme",
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
